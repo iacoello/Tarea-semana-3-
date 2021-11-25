@@ -30,6 +30,10 @@
 
 ![voltaje](https://user-images.githubusercontent.com/93835587/143503994-7ad17439-ff0b-492f-9d28-ac4e1b2d04a5.jpeg)
 
+![corriente](https://user-images.githubusercontent.com/93835587/143504400-c9d8e6b5-be6a-4077-822f-89d0e6f24d77.jpeg)
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
