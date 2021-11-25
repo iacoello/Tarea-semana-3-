@@ -34,6 +34,79 @@
 
 **//Capitulo 5//**
 
+1.Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
+
+![1](https://user-images.githubusercontent.com/93800511/143363462-1c18d7e1-47eb-44dc-90fb-a5871726c5de.png)
+
+3.Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.
+
+![1](https://user-images.githubusercontent.com/93800511/143364988-6fa02601-80b4-492b-a619-6e6bd7e68cbc.png)
+
+5.En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores
+en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la
+cara posterior.
+
+![1](https://user-images.githubusercontent.com/93800511/143364804-d7e8ab6c-fe3d-4057-ab88-b0a1a536bcd8.png)
+
+7.La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro
+localizado en el circuito?
+
+
+
+9.Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
+de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de
+control. Trace el diagrama esquemático.
+
+11.Encuentre la resistencia total de los siguientes grupos de resistores en serie:
+
+13.¿Cuál es la resistencia total de doce resistores de 5.6 kÆ dispuestos en serie?
+
+15.Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?
+
+17.En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
+
+19.¿Cuál es la corriente presente en cada circuito de la figura 5-74?
+
+21.Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.
+
+(a) ¿Cuál es la corriente en el circuito?
+
+(b) ¿Cuál es el voltaje a través de cada resistor?
+
+(c) ¿Cuál es el valor nominal de potencia de los resistores?
+
+23.¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
+
+25.En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
+
+(a) ¿Cuál es la resistencia de R4?
+
+(b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
+
+(c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?
+
+27.Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad
+en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje
+total?
+
+29.Determine el voltaje de fuente total en cada circuito de la figura 5-79.
+
+31.Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro
+de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
+
+33.En el circuito de la figura 5-81, determine la resistencia de R4.
+
+![1](https://user-images.githubusercontent.com/93800511/143358513-f82f330f-22bc-492d-984e-04165dc8023d.png)
+
+35.Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La
+corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
+
+37.La resistencia total de un circuito es de 560 Æ. ¿Qué porcentaje del voltaje total aparece a través de un
+resistor de 27 Æ que forma parte de la resistencia total en serie?
+
+39.Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **//Capitulo 6//**
@@ -69,18 +142,6 @@ interruptor?
 ![15](https://user-images.githubusercontent.com/93835587/143337058-7417befd-aa5a-4fad-95df-010c6241bce0.jpg)
 
 <img src="https://latex.codecogs.com/svg.image?\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)Req=&space;\frac{R1\times&space;R2}{R1&plus;R2}\\Req=&space;\frac{560\mho&space;\times&space;1000\mho&space;}{560\mho&space;&plus;1000\mho&space;}\\Req=358,97\mho&space;\to&space;359\mho&space;&space;" title="\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)Req= \frac{R1\times R2}{R1+R2}\\Req= \frac{560\mho \times 1000\mho }{560\mho +1000\mho }\\Req=358,97\mho \to 359\mho " />
-
-<img src="https://latex.codecogs.com/svg.image?\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)Req=&space;\frac{R1\times&space;R2}{R1&plus;R2}\\Req=&space;\frac{47\mho&space;\times&space;56\mho&space;}{47\mho&space;&plus;56\mho&space;}\\Req=25,55\mho&space;\to&space;25,6\mho&space;&space;" title="\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)Req= \frac{R1\times R2}{R1+R2}\\Req= \frac{47\mho \times 56\mho }{47\mho +56\mho }\\Req=25,55\mho \to 25,6\mho " />
-
-<img src="https://latex.codecogs.com/svg.image?\\\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)RT=&space;\frac{1}{\frac{1}{R1}&plus;\frac{1}{R2}&plus;\frac{1}{R3}}\\RT=&space;\frac{1}{\frac{1}{1,5}&plus;\frac{1}{2,2}&plus;\frac{1}{10}}\\RT=0,819k\mho&space;\\RT=819\mho&space;&space;&space;" title="\\\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)RT= \frac{1}{\frac{1}{R1}+\frac{1}{R2}+\frac{1}{R3}}\\RT= \frac{1}{\frac{1}{1,5}+\frac{1}{2,2}+\frac{1}{10}}\\RT=0,819k\mho \\RT=819\mho " />
-
-<img src="https://latex.codecogs.com/svg.image?\\\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)RT=&space;\frac{1}{\frac{1}{R1}&plus;\frac{1}{R2}&plus;\frac{1}{R3}&plus;\frac{1}{R4}}\\RT=&space;\frac{1}{\frac{1}{1000000\mho&space;}&plus;\frac{1}{470000}&plus;\frac{1}{1000\mho&space;}&plus;\frac{1}{270000\mho&space;}}&space;\\RT=997\mho&space;&space;&space;" title="\\\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)RT= \frac{1}{\frac{1}{R1}+\frac{1}{R2}+\frac{1}{R3}+\frac{1}{R4}}\\RT= \frac{1}{\frac{1}{1000000\mho }+\frac{1}{470000}+\frac{1}{1000\mho }+\frac{1}{270000\mho }} \\RT=997\mho " />
-
-17. ¿Cuál es la resistencia total de doce resistores de 6.8 kÆ dispuestos en paralelo?
-
-<img src="https://latex.codecogs.com/svg.image?\\RT=&space;\frac{R}{Nro~de~resistencias}\\RT=&space;\frac{6,8k\mho&space;}{12}\\RT=0,567k\mho&space;\\RT=567\mho&space;&space;&space;" title="\\RT= \frac{R}{Nro~de~resistencias}\\RT= \frac{6,8k\mho }{12}\\RT=0,567k\mho \\RT=567\mho " />
-
-19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
