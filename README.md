@@ -38,7 +38,8 @@
 
 ![1](https://user-images.githubusercontent.com/93800511/143363462-1c18d7e1-47eb-44dc-90fb-a5871726c5de.png)
 
-3.Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.
+3.Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para
+poner todos los resistores en serie.
 
 ![1](https://user-images.githubusercontent.com/93800511/143364988-6fa02601-80b4-492b-a619-6e6bd7e68cbc.png)
 
