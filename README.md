@@ -156,7 +156,10 @@ interruptor?
 
 21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
 
-![21](https://user-images.githubusercontent.com/93835587/143369870-f20ac99e-c990-4f0c-84f9-389a674447d7.jpg)
+[21](https://user-images.githubusercontent.com/93835587/143369870-f20ac99e-c990-4f0c-84f9-389a674447d7.jpg)
+
+!![6-73](https://user-images.githubusercontent.com/93835587/143370322-517c4499-5e7b-40cf-9e30-76dfea3bb7e3.jpg)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
