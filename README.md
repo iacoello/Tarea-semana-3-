@@ -48,6 +48,9 @@
 ![6-67](https://user-images.githubusercontent.com/93835587/143328925-206901d7-602b-441b-85e8-330163a4f136.jpg)
 
 <img src="https://latex.codecogs.com/svg.image?La~respuesta~para~cada~uno~de~los~medidores~es~de~100v~ya~que~la~fuente~de~poder~o~de~alimentacion~es~de~100v~por~lo~tanto~en~&space;cada~uno~de~los~medidores~va~fluir~el~mismo~voltaje&space;" title="La~respuesta~para~cada~uno~de~los~medidores~es~de~100v~ya~que~la~fuente~de~poder~o~de~alimentacion~es~de~100v~por~lo~tanto~en~ cada~uno~de~los~medidores~va~fluir~el~mismo~voltaje " />
+
+7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
+interruptor?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **4.VIDEOS**
