@@ -47,6 +47,8 @@
 
 ![6-67](https://user-images.githubusercontent.com/93835587/143328925-206901d7-602b-441b-85e8-330163a4f136.jpg)
 
+<img src="https://latex.codecogs.com/svg.image?la~respuesta~para~cada~resistor~es~de~100v~ya~que~la~fuente~de~poder~de~alimentacion~es~de~100v~por~lo~tanto~en&space;cada~uno~de~los~medidores~va~ir~el~mismo~voltaje&space;" title="la~respuesta~para~cada~resistor~es~de~100v~ya~que~la~fuente~de~poder~de~alimentacion~es~de~100v~por~lo~tanto~en cada~uno~de~los~medidores~va~ir~el~mismo~voltaje " />
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **4.VIDEOS**
