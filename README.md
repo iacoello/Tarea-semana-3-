@@ -49,7 +49,7 @@
 
 <img src="https://latex.codecogs.com/svg.image?
 
-\[La~respuesta~para~cada~uno~de~los~medidores~es~de~100v~ya~que~la~fuente~de~poder~o~de~alimentacion~es~de~100v~por~lo~tanto~en~ cada~uno~de~los~medidores~va~ir~el~mismo~voltaje \]
+<img src="https://latex.codecogs.com/svg.image?La~respuesta~para~cada~uno~de~los~medidores~es~de~100v~ya~que~la~fuente~de~poder~o~de~alimentacion~es~de~100v~por~lo~tanto~en~&space;cada~uno~de~los~medidores~va~ir~el~mismo~voltaje&space;" title="La~respuesta~para~cada~uno~de~los~medidores~es~de~100v~ya~que~la~fuente~de~poder~o~de~alimentacion~es~de~100v~por~lo~tanto~en~ cada~uno~de~los~medidores~va~ir~el~mismo~voltaje " />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
