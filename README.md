@@ -51,7 +51,7 @@ cara posterior.
 7.La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro
 localizado en el circuito?
 
-![1](https://user-images.githubusercontent.com/93800511/143372983-9aef6f61-af9e-42a1-b119-fd4c3949c019.png)
+
 
 9.Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
 de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de
@@ -59,21 +59,13 @@ control. Trace el diagrama esquemático.
 
 11.Encuentre la resistencia total de los siguientes grupos de resistores en serie:
 
-![1](https://user-images.githubusercontent.com/93800511/143373100-1a8c8702-d305-4035-92a4-cd974b107e0d.png)
-
 13.¿Cuál es la resistencia total de doce resistores de 5.6 kÆ dispuestos en serie?
 
 15.Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?
 
-![1](https://user-images.githubusercontent.com/93800511/143373256-6c12eca9-882d-4fbd-a62d-0707d01ae88d.png)
-
 17.En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
 
-![1](https://user-images.githubusercontent.com/93800511/143373100-1a8c8702-d305-4035-92a4-cd974b107e0d.png)
-
 19.¿Cuál es la corriente presente en cada circuito de la figura 5-74?
-
-![1](https://user-images.githubusercontent.com/93800511/143373191-995e759b-b3ce-45a0-b9fc-968c385cacb6.png)
 
 21.Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.
 
@@ -87,8 +79,6 @@ control. Trace el diagrama esquemático.
 
 25.En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
 
-![1](https://user-images.githubusercontent.com/93800511/143373358-12d27a38-027e-4923-a3c8-0890d97b2c6d.png)
-
 (a) ¿Cuál es la resistencia de R4?
 
 (b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
@@ -101,8 +91,6 @@ total?
 
 29.Determine el voltaje de fuente total en cada circuito de la figura 5-79.
 
-![1](https://user-images.githubusercontent.com/93800511/143373413-1829bb72-82bf-4cea-8be2-67973deac040.png)
-
 31.Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro
 de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
 
@@ -113,14 +101,10 @@ de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje
 35.Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La
 corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
 
-![1](https://user-images.githubusercontent.com/93800511/143373501-748afad9-5a2d-408e-984c-ee767cca66a8.png)
-
 37.La resistencia total de un circuito es de 560 Æ. ¿Qué porcentaje del voltaje total aparece a través de un
 resistor de 27 Æ que forma parte de la resistencia total en serie?
 
 39.Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
-
-![1](https://user-images.githubusercontent.com/93800511/143373548-f83e009f-04ba-422d-9445-7a8fd3c0783c.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -175,6 +159,7 @@ interruptor?
 
 ![21](https://user-images.githubusercontent.com/93835587/143370445-e15f1916-228f-4ecb-a0de-41451afe2541.jpg)
 
+<img src="https://latex.codecogs.com/svg.image?\\Tenemos~losvsiguientes~resultados\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)510k\mho&space;&space;\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)245k\mho&space;\\\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)510k\mho&space;&space;\\\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)193k\mho&space;&space;&space;" title="\\Tenemos~losvsiguientes~resultados\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)510k\mho \\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)245k\mho \\\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)510k\mho \\\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)193k\mho " />
 
 ![6-73](https://user-images.githubusercontent.com/93835587/143370470-cbb906ea-0715-492f-bb11-2a58a6908e0e.jpg)
 
@@ -192,7 +177,9 @@ EXPLICACIÓN
  27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Æ mostrado en la figura 6-75 antes de que el
 usible de 0.5 A se funda?
  
- f![27](https://user-images.githubusercontent.com/93835587/143372540-e953ae67-821d-46f8-bbb6-f4c0db174766.jpg)
+ ![27](https://user-images.githubusercontent.com/93835587/143372540-e953ae67-821d-46f8-bbb6-f4c0db174766.jpg)
+ 
+ 29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
