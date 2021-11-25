@@ -96,9 +96,6 @@ resistor de 27 Æ que forma parte de la resistencia total en serie?
 
 39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
 
-41
-
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
