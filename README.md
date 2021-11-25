@@ -198,6 +198,10 @@ la figura 6-79
 
 ![image](https://user-images.githubusercontent.com/93835587/143495692-2a5445c4-0aaf-4e10-9275-6ef399e93ad9.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\\frac{1}{R}=&space;\frac{1}{1\times&space;10^{6}}&plus;\frac{1}{2.2\times&space;10^{6}}\\\frac{1}{R}=&space;\frac{1}{1.4545\times&space;10^{-6}" title="\\\frac{1}{R}= \frac{1}{1\times 10^{6}}+\frac{1}{2.2\times 10^{6}}\\\frac{1}{R}= \frac{1}{1.4545\times 10^{-6}" />
+
+<img src="https://latex.codecogs.com/svg.image?\\687500\mho&space;&space;\\IX=&space;IT\left&space;(&space;\frac{RT}{RX}&space;\right&space;)&space;\\I2=&space;10\times&space;10^{-6}\left&space;(&space;\frac{687500}{2.2\times&space;10^{6}}&space;\right&space;)\\I2=&space;3.12\times&space;10^{6}&space;A" title="\\687500\mho \\IX= IT\left ( \frac{RT}{RX} \right ) \\I2= 10\times 10^{-6}\left ( \frac{687500}{2.2\times 10^{6}} \right )\\I2= 3.12\times 10^{6} A" />
+
 35. Determine todos los valores de resistor en la figura 6-83. RT  773 Æ.
 
 ![image](https://user-images.githubusercontent.com/93835587/143495776-76a98f82-c4ac-4a55-a81f-d4600f4b7b8d.png)
