@@ -88,7 +88,7 @@ de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje
 
 33. En el circuito de la figura 5-81, determine la resistencia de R4.
 
-
+![1](https://user-images.githubusercontent.com/93800511/143358513-f82f330f-22bc-492d-984e-04165dc8023d.png)
 
 35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La
 corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
