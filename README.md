@@ -162,8 +162,9 @@ interruptor?
 
 ![6-73](https://user-images.githubusercontent.com/93835587/143370470-cbb906ea-0715-492f-bb11-2a58a6908e0e.jpg)
 
+23. Tres resistores de 33 Æ están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
 
-
+<img src="https://latex.codecogs.com/svg.image?\\RT=&space;\frac{R}{Nro~de~resistencias}\\RT=&space;\frac{33\mho&space;}{3}\\RT=11\mho&space;\\I=&space;V\times&space;R\\I=&space;110V\times11\mho\\I=10A&space;&space;" title="\\RT= \frac{R}{Nro~de~resistencias}\\RT= \frac{33\mho }{3}\\RT=11\mho \\I= V\times R\\I= 110V\times11\mho\\I=10A " />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
