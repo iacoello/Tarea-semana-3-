@@ -189,7 +189,8 @@ usible de 0.5 A se funda?
  31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en
 la figura 6-79
 
-![image](https://user-images.githubusercontent.com/93835587/143497184-17a0d11d-6661-4ab7-94fb-6691a54ad083.png)
+![image](https://user-images.githubusercontent.com/93835587/143497360-074156fc-868d-4653-ac2f-63896488a165.png)
+
 
 <img src="https://latex.codecogs.com/svg.image?\\Por~lo~tanto~la~cantidad~de~corriente~que~para~cada~posicion~es~la~siguiente\\&space;Posicion\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)=&space;2.25mA\\&space;Posicion\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)=&space;4.75mA\\&space;Posicion\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)=&space;4.75mA&plus;2.25mA&space;\to&space;7mA" title="\\Por~lo~tanto~la~cantidad~de~corriente~que~para~cada~posicion~es~la~siguiente\\ Posicion\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)= 2.25mA\\ Posicion\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)= 4.75mA\\ Posicion\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)= 4.75mA+2.25mA \to 7mA" />
 
