@@ -248,6 +248,8 @@ la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
 
 <img src="https://latex.codecogs.com/svg.image?\\Conectar~el~ohmmetro~entre~las~siguientes~clavijas:\\Clavijas&space;3-4\\Lectura&space;correcta:&space;\\R=&space;270\mho&space;\left|&space;\right|&space;390\mho&space;=&space;159.5\mho\\Lectura&space;correcta:\\R1=abierto:390\mho&space;\\R2=abierto:270\mho&space;" title="\\Conectar~el~ohmmetro~entre~las~siguientes~clavijas:\\Clavijas 3-4\\Lectura correcta: \\R= 270\mho \left| \right| 390\mho = 159.5\mho\\Lectura correcta:\\R1=abierto:390\mho \\R2=abierto:270\mho " />
 
+<img src="https://latex.codecogs.com/svg.image?\\Conectar~el~ohmmetro~entre~las~siguientes~clavijas:\\Clavijas&space;5-6\\Lectura&space;correcta:&space;\\R&space;=&space;1.0\left|&space;\right|71.8\left|&space;\right|7680\left|&space;\right|510k\mho&space;=201k\mho&space;" title="\\Conectar~el~ohmmetro~entre~las~siguientes~clavijas:\\Clavijas 5-6\\Lectura correcta: \\R = 1.0\left| \right|71.8\left| \right|7680\left| \right|510k\mho =201k\mho " />
+
 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
 
