@@ -155,7 +155,9 @@ interruptor?
 19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
 
 21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
-22. 
+
+![21](https://user-images.githubusercontent.com/93835587/143369870-f20ac99e-c990-4f0c-84f9-389a674447d7.jpg)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **4.VIDEOS**
