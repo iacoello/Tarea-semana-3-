@@ -142,7 +142,15 @@ interruptor?
 ![15](https://user-images.githubusercontent.com/93835587/143337058-7417befd-aa5a-4fad-95df-010c6241bce0.jpg)
 
 <img src="https://latex.codecogs.com/svg.image?\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)Req=&space;\frac{R1\times&space;R2}{R1&plus;R2}\\Req=&space;\frac{560\mho&space;\times&space;1000\mho&space;}{560\mho&space;&plus;1000\mho&space;}\\Req=358,97\mho&space;\to&space;359\mho&space;&space;" title="\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)Req= \frac{R1\times R2}{R1+R2}\\Req= \frac{560\mho \times 1000\mho }{560\mho +1000\mho }\\Req=358,97\mho \to 359\mho " />
+<img src="https://latex.codecogs.com/svg.image?\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)Req=&space;\frac{R1\times&space;R2}{R1&plus;R2}\\Req=&space;\frac{47\mho&space;\times&space;56\mho&space;}{47\mho&space;&plus;56\mho&space;}\\Req=25,55\mho&space;\to&space;25,6\mho&space;&space;" title="\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)Req= \frac{R1\times R2}{R1+R2}\\Req= \frac{47\mho \times 56\mho }{47\mho +56\mho }\\Req=25,55\mho \to 25,6\mho " />
 
+<img src="https://latex.codecogs.com/svg.image?\\\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)RT=&space;\frac{1}{\frac{1}{R1}&plus;\frac{1}{R2}&plus;\frac{1}{R3}}\\RT=&space;\frac{1}{\frac{1}{1,5}&plus;\frac{1}{2,2}&plus;\frac{1}{10}}\\RT=0,819k\mho&space;\\RT=819\mho&space;&space;&space;" title="\\\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)RT= \frac{1}{\frac{1}{R1}+\frac{1}{R2}+\frac{1}{R3}}\\RT= \frac{1}{\frac{1}{1,5}+\frac{1}{2,2}+\frac{1}{10}}\\RT=0,819k\mho \\RT=819\mho " />
+
+<img src="https://latex.codecogs.com/svg.image?\\\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)RT=&space;\frac{1}{\frac{1}{R1}&plus;\frac{1}{R2}&plus;\frac{1}{R3}&plus;\frac{1}{R4}}\\RT=&space;\frac{1}{\frac{1}{1000000\mho&space;}&plus;\frac{1}{470000}&plus;\frac{1}{1000\mho&space;}&plus;\frac{1}{270000\mho&space;}}&space;\\RT=997\mho&space;&space;&space;" title="\\\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)RT= \frac{1}{\frac{1}{R1}+\frac{1}{R2}+\frac{1}{R3}+\frac{1}{R4}}\\RT= \frac{1}{\frac{1}{1000000\mho }+\frac{1}{470000}+\frac{1}{1000\mho }+\frac{1}{270000\mho }} \\RT=997\mho " />
+
+17. ¿Cuál es la resistencia total de doce resistores de 6.8 kÆ dispuestos en paralelo?
+
+<img src="https://latex.codecogs.com/svg.image?\\RT=&space;\frac{R}{Nro~de~resistencias}\\RT=&space;\frac{6,8k\mho&space;}{12}\\RT=0,567k\mho&space;\\RT=567\mho&space;&space;&space;" title="\\RT= \frac{R}{Nro~de~resistencias}\\RT= \frac{6,8k\mho }{12}\\RT=0,567k\mho \\RT=567\mho " />
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **4.VIDEOS**
