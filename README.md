@@ -152,13 +152,17 @@ interruptor?
 
 <img src="https://latex.codecogs.com/svg.image?\\RT=&space;\frac{R}{Nro~de~resistencias}\\RT=&space;\frac{6,8k\mho&space;}{12}\\RT=0,567k\mho&space;\\RT=567\mho&space;&space;&space;" title="\\RT= \frac{R}{Nro~de~resistencias}\\RT= \frac{6,8k\mho }{12}\\RT=0,567k\mho \\RT=567\mho " />
 
-19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
+19- Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
 
-21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+21- ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
 
-[21](https://user-images.githubusercontent.com/93835587/143369870-f20ac99e-c990-4f0c-84f9-389a674447d7.jpg)
 
-!![6-73](https://user-images.githubusercontent.com/93835587/143370322-517c4499-5e7b-40cf-9e30-76dfea3bb7e3.jpg)
+![21](https://user-images.githubusercontent.com/93835587/143370445-e15f1916-228f-4ecb-a0de-41451afe2541.jpg)
+
+
+![6-73](https://user-images.githubusercontent.com/93835587/143370470-cbb906ea-0715-492f-bb11-2a58a6908e0e.jpg)
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
