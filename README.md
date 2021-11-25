@@ -51,6 +51,19 @@
 
 7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
 interruptor?
+
+![a](https://user-images.githubusercontent.com/93835587/143334212-dabe031b-1150-43b9-84fe-dab3c32a16f1.jpg)
+
+<img src="https://latex.codecogs.com/svg.image?\\Color~celeste\\Posicion~A\\V1&space;=&space;15&space;V,~V2&space;=&space;0&space;V,~V3&space;=&space;0&space;V,~V4&space;=&space;15&space;V&space;" title="\\Color~celeste\\Posicion~A\\V1 = 15 V,~V2 = 0 V,~V3 = 0 V,~V4 = 15 V " />
+
+![b](https://user-images.githubusercontent.com/93835587/143334232-ff8ecaa3-84b0-4ca0-8e3f-6370b10deafa.jpg)
+
+<img src="https://latex.codecogs.com/svg.image?\\Color~verde\\Posicion~b\\V1&space;=&space;15~V,~V2&space;=&space;0&space;V,~V3&space;=&space;15&space;V,~V4&space;=&space;0&space;V&space;" title="\\Color~verde\\Posicion~b\\V1 = 15~V,~V2 = 0 V,~V3 = 15 V,~V4 = 0 V " />
+
+![c](https://user-images.githubusercontent.com/93835587/143334332-77723d62-7166-49ac-9efa-276a8a6903a1.jpg)
+
+<img src="https://latex.codecogs.com/svg.image?\\Color~amarillo\\Posicion~c\\V1&space;=&space;15~V,~V2&space;=&space;15&space;V,~V3&space;=&space;0&space;V,~V4&space;=&space;0&space;V&space;" title="\\Color~amarillo\\Posicion~c\\V1 = 15~V,~V2 = 15 V,~V3 = 0 V,~V4 = 0 V " />
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **4.VIDEOS**
