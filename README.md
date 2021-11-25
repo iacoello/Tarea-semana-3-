@@ -189,7 +189,9 @@ usible de 0.5 A se funda?
  31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en
 la figura 6-79
 
-![image](https://user-images.githubusercontent.com/93835587/143495639-c71a9011-130d-485f-94e0-24e5c95df976.png)
+![image](https://user-images.githubusercontent.com/93835587/143496544-6afb007f-2519-4318-85c1-ff618089d435.png)
+
+<img src="https://latex.codecogs.com/svg.image?\\Por~lo~tanto~la~cantidad~de~corriente~que~para~cada~posicion~es~la~siguiente\\&space;Posicion\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)=&space;2.25mA\\&space;Posicion\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)=&space;4.75mA\\&space;Posicion\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)=&space;4.75mA&plus;2.25mA&space;\to&space;7mA" title="\\Por~lo~tanto~la~cantidad~de~corriente~que~para~cada~posicion~es~la~siguiente\\ Posicion\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)= 2.25mA\\ Posicion\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)= 4.75mA\\ Posicion\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)= 4.75mA+2.25mA \to 7mA" />
 
 33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81
 
