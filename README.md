@@ -232,9 +232,11 @@ aplicación de medición de 50 A?
 
 43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente tota
 
-45. ¿Qué está mal con el circuito de la figura 6-86?
+45- ¿Qué está mal con el circuito de la figura 6-86?
 
 ![image](https://user-images.githubusercontent.com/93835587/143495994-327b37d3-e2d7-49bc-8ea0-29931b5bc80e.png)
+
+<img src="https://latex.codecogs.com/svg.image?El~resistor~de~8.2k\mho&space;~esta~abierto." title="El~resistor~de~8.2k\mho ~esta~abierto." />
 
 47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y
 asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de
