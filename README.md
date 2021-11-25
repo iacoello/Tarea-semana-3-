@@ -65,10 +65,9 @@ interruptor?
 <img src="https://latex.codecogs.com/svg.image?\\Color~amarillo\\Posicion~c\\V1&space;=&space;15~V,~V2&space;=&space;15&space;V,~V3&space;=&space;0&space;V,~V4&space;=&space;0&space;V&space;" title="\\Color~amarillo\\Posicion~c\\V1 = 15~V,~V2 = 15 V,~V3 = 0 V,~V4 = 0 V " />
 
 15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
-(a) y (b) y 
-(c) , , (d) , , , 
-16. Calcule RT en cada uno de los circuitos de la figura 6-70.
-1.5 kÆ 2.2 kÆ 10 kÆ 1.0 MÆ 470 kÆ 1.0 kÆ 2.7 MÆ
+
+![15](https://user-images.githubusercontent.com/93835587/143337058-7417befd-aa5a-4fad-95df-010c6241bce0.jpg)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
