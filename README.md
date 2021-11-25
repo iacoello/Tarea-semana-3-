@@ -76,6 +76,8 @@ interruptor?
 
 <img src="https://latex.codecogs.com/svg.image?\\\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)RT=&space;\frac{1}{\frac{1}{R1}&plus;\frac{1}{R2}&plus;\frac{1}{R3}&plus;\frac{1}{R4}}\\RT=&space;\frac{1}{\frac{1}{1000000\mho&space;}&plus;\frac{1}{470000}&plus;\frac{1}{1000\mho&space;}&plus;\frac{1}{270000\mho&space;}}&space;\\RT=997\mho&space;&space;&space;" title="\\\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)RT= \frac{1}{\frac{1}{R1}+\frac{1}{R2}+\frac{1}{R3}+\frac{1}{R4}}\\RT= \frac{1}{\frac{1}{1000000\mho }+\frac{1}{470000}+\frac{1}{1000\mho }+\frac{1}{270000\mho }} \\RT=997\mho " />
 
+17. ¿Cuál es la resistencia total de doce resistores de 6.8 kÆ dispuestos en paralelo?
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **4.VIDEOS**
