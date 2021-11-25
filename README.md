@@ -68,6 +68,7 @@ interruptor?
 
 ![15](https://user-images.githubusercontent.com/93835587/143337058-7417befd-aa5a-4fad-95df-010c6241bce0.jpg)
 
+<img src="https://latex.codecogs.com/svg.image?\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)Req=&space;\frac{R1\times&space;R2}{R1&plus;R2}\\Req=&space;\frac{560\mho&space;\times&space;1000\mho&space;}{560\mho&space;&plus;1000\mho&space;}\\Req=358,97\mho&space;\to&space;359\mho&space;&space;" title="\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)Req= \frac{R1\times R2}{R1+R2}\\Req= \frac{560\mho \times 1000\mho }{560\mho +1000\mho }\\Req=358,97\mho \to 359\mho " />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
