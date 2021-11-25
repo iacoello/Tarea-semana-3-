@@ -45,6 +45,8 @@
 <img src="https://latex.codecogs.com/svg.image?\\La~siguiente~grafica~nos~da~los~siguientes~resultados~en~relacion~a~las~resistencias~que~se~encuentran~en~paralelo\\R1~R2~R5~R9~R10~R12~estan~en~paralelo\\R4~R6~R7~R8~estan~en~paralelo\\R3~R11~estan~en~paralelo" title="\\La~siguiente~grafica~nos~da~los~siguientes~resultados~en~relacion~a~las~resistencias~que~se~encuentran~en~paralelo\\R1~R2~R5~R9~R10~R12~estan~en~paralelo\\R4~R6~R7~R8~estan~en~paralelo\\R3~R11~estan~en~paralelo" />
 5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
 
+![6-67](https://user-images.githubusercontent.com/93835587/143328925-206901d7-602b-441b-85e8-330163a4f136.jpg)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **4.VIDEOS**
