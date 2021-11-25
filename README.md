@@ -7,7 +7,7 @@
 **INTEGRANTES**
 * Coello Ismael 
 * Paola Morales 
-* Andrés Granda   
+* Andrés Granda
  
 **CLASE**
 * FUNDAMENTOS DE CIRCUITOS ELECTRICOS **NRC** : 10149
@@ -17,8 +17,6 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1. OBJETIVOS**
-
-Analizar teóricamente los circuitos 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -39,6 +37,12 @@ Analizar teóricamente los circuitos
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **//Capitulo 6//**
+
+3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
+
+![6-66](https://user-images.githubusercontent.com/93835587/143327985-0af95c7c-c83f-4b7a-8cf9-a5f4499ea881.jpg)
+
+<img src="https://latex.codecogs.com/svg.image?\\La~siguiente~grafica~nos~da~los~siguientes~resultados~en~relacion~a~las~resistencias~que~se~encuentran~en~paralelo\\R1~R2~R5~R9~R10~R12~estan~en~paralelo\\R4~R6~R7~R8~estan~en~paralelo\\R3~R11~estan~en~paralelo" title="\\La~siguiente~grafica~nos~da~los~siguientes~resultados~en~relacion~a~las~resistencias~que~se~encuentran~en~paralelo\\R1~R2~R5~R9~R10~R12~estan~en~paralelo\\R4~R6~R7~R8~estan~en~paralelo\\R3~R11~estan~en~paralelo" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
