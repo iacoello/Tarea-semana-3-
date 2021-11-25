@@ -156,12 +156,14 @@ interruptor?
 
 21- ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
 
-
 ![21](https://user-images.githubusercontent.com/93835587/143370445-e15f1916-228f-4ecb-a0de-41451afe2541.jpg)
+
+![plp](https://user-images.githubusercontent.com/93835587/143373918-482be196-4479-4b44-b119-69cbb213cafd.jpg)
+
 
 <img src="https://latex.codecogs.com/svg.image?\\Tenemos~losvsiguientes~resultados\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)510k\mho&space;&space;\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)245k\mho&space;\\\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)510k\mho&space;&space;\\\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)193k\mho&space;&space;&space;" title="\\Tenemos~losvsiguientes~resultados\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)510k\mho \\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)245k\mho \\\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)510k\mho \\\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)193k\mho " />
 
-![6-73](https://user-images.githubusercontent.com/93835587/143370470-cbb906ea-0715-492f-bb11-2a58a6908e0e.jpg)
+
 
 23. Tres resistores de 33 Æ están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
 
@@ -179,7 +181,10 @@ usible de 0.5 A se funda?
  
  ![27](https://user-images.githubusercontent.com/93835587/143372540-e953ae67-821d-46f8-bbb6-f4c0db174766.jpg)
  
- 29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
+29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
+ 
+  2![29](https://user-images.githubusercontent.com/93835587/143374065-6c0c961b-50bf-47f4-832e-88abcdd07e74.jpg)
+ 
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
