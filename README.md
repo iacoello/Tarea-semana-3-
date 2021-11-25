@@ -252,8 +252,10 @@ la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
 
 <img src="https://latex.codecogs.com/svg.image?\\R5&space;abierto:&space;R&space;=&space;1.8m\mho&space;\left|&space;\right|7680k\mho&space;\left|&space;\right|&space;7510k\mho&space;=&space;251k\mho&space;\\R6&space;abierto:&space;R&space;=&space;1.0m\mho&space;\left|&space;\right|7680k\mho&space;\left|&space;\right|7510k\mho&space;&space;=&space;226&space;k\mho&space;\\R8&space;abierto:&space;R&space;=&space;1.0m\mho&space;\left|&space;\right|71.8m\mho&space;\left|&space;\right|7680k\mho&space;&space;=&space;330&space;k\mho&space;\\R7&space;abierto:&space;R&space;=&space;1.0m\mho&space;\left|&space;\right|71.8m\mho&space;\left|&space;\right|7510k\mho&space;&space;=&space;284&space;k\mho&space;" title="\\R5 abierto: R = 1.8m\mho \left| \right|7680k\mho \left| \right| 7510k\mho = 251k\mho \\R6 abierto: R = 1.0m\mho \left| \right|7680k\mho \left| \right|7510k\mho = 226 k\mho \\R8 abierto: R = 1.0m\mho \left| \right|71.8m\mho \left| \right|7680k\mho = 330 k\mho \\R7 abierto: R = 1.0m\mho \left| \right|71.8m\mho \left| \right|7510k\mho = 284 k\mho " />
 
-49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
+
+![image](https://user-images.githubusercontent.com/93835587/143507713-5966fd71-21b4-441a-be5f-bc312c5af324.png)
 
 <img src="https://latex.codecogs.com/svg.image?\\Corto~entre~las~clavijas~3~y~4:\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)R_{1-2}&space;=&space;(R1\left|&space;\right|R2&space;\left|&space;\right|R3\left|&space;\right|R4\left|&space;\right|R11\left|&space;\right|R12)&plus;&space;(R5\left\|&space;\right\|R6\left|&space;\right|&space;R7\left\|&space;\right\|R8\left\|&space;\right\|R9\left\|&space;\right\|R10)&space;\\R_{1-2}=&space;940\mho&space;&space;" title="\\Corto~entre~las~clavijas~3~y~4:\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)R_{1-2} = (R1\left| \right|R2 \left| \right|R3\left| \right|R4\left| \right|R11\left| \right|R12)+ (R5\left\| \right\|R6\left| \right| R7\left\| \right\|R8\left\| \right\|R9\left\| \right\|R10) \\R_{1-2}= 940\mho " />
 
