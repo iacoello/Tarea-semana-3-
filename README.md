@@ -26,8 +26,9 @@
 
 **2.MARCO TEÓRICO**
 
-
 ![resistores en paralelo](https://user-images.githubusercontent.com/93835587/143501261-a346c5fc-abf6-4271-9b30-b78a396c7b24.jpeg)
+
+![voltaje](https://user-images.githubusercontent.com/93835587/143503994-7ad17439-ff0b-492f-9d28-ac4e1b2d04a5.jpeg)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
