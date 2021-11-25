@@ -167,11 +167,16 @@ interruptor?
 <img src="https://latex.codecogs.com/svg.image?\\RT=&space;\frac{R}{Nro~de~resistencias}\\RT=&space;\frac{33\mho&space;}{3}\\RT=11\mho&space;\\I=&space;V\times&space;R\\I=&space;110V\times11\mho\\I=10A&space;&space;" title="\\RT= \frac{R}{Nro~de~resistencias}\\RT= \frac{33\mho }{3}\\RT=11\mho \\I= V\times R\\I= 110V\times11\mho\\I=10A " />
 
 25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una
-fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kÆ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kÆ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
 
 <img src="https://latex.codecogs.com/svg.image?\\I=&space;V\times&space;R\\I=&space;110V\times2.2\mho\\I=50mA&space;&space;" title="\\I= V\times R\\I= 110V\times2.2\mho\\I=50mA " />
 EXPLICACIÓN
  Cuando un foco se funde, los demás focos permanecen encendidos
+ 
+ 27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Æ mostrado en la figura 6-75 antes de que el
+usible de 0.5 A se funda?
+ 
+ f![27](https://user-images.githubusercontent.com/93835587/143372540-e953ae67-821d-46f8-bbb6-f4c0db174766.jpg)
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
