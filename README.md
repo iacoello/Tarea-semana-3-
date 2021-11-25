@@ -186,6 +186,54 @@ usible de 0.5 A se funda?
  
   2![29](https://user-images.githubusercontent.com/93835587/143374065-6c0c961b-50bf-47f4-832e-88abcdd07e74.jpg)
  
+ 31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en
+la figura 6-79
+
+![image](https://user-images.githubusercontent.com/93835587/143495639-c71a9011-130d-485f-94e0-24e5c95df976.png)
+
+33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81
+
+![image](https://user-images.githubusercontent.com/93835587/143495692-2a5445c4-0aaf-4e10-9275-6ef399e93ad9.png)
+
+35. Determine todos los valores de resistor en la figura 6-83. RT  773 Æ.
+
+![image](https://user-images.githubusercontent.com/93835587/143495776-76a98f82-c4ac-4a55-a81f-d4600f4b7b8d.png)
+
+37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas
+de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50
+mV, 10 kÆ de escala completa entre la derivación para realizar la medición.
+(a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una
+aplicación de medición de 50 A?
+(b) ¿Cuánta corriente circula por el medidor?
+
+39. Determine la potencia total en cada uno de los circuitos de la figura 6-81
+
+![image](https://user-images.githubusercontent.com/93835587/143495862-61903f43-03bc-44d6-9031-eb6def717e65.png)
+
+41. Encuentre los valores de las cantidades no especificadas en la figura 6-84
+
+![image](https://user-images.githubusercontent.com/93835587/143495930-e9d055bc-ead4-4266-9653-2b936c281993.png)
+
+43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente tota
+
+45. ¿Qué está mal con el circuito de la figura 6-86?
+
+![image](https://user-images.githubusercontent.com/93835587/143495994-327b37d3-e2d7-49bc-8ea0-29931b5bc80e.png)
+
+47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y
+asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de
+la tarjeta. Describa el procedimiento en un formato detallado paso a paso. 
+
+![image](https://user-images.githubusercontent.com/93835587/143496042-92e47d24-c99e-49ce-b321-dc4003d6701b.png)
+
+
+49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+(a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
+
+51. Abra el archivo P06-51. Determine por medición si hay un resistor abierto y, de ser así, mencione cuál. 
+
+53. Abra el archivo P06-53 y determine el voltaje de fuente no especificado.
+
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
