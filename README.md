@@ -280,6 +280,8 @@ aplicación de medición de 50 A?
 
 43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente tota
 
+<img src="https://latex.codecogs.com/svg.image?~\\75w\\P=&space;V\times&space;I\\I=&space;\frac{P}{V}&space;\\I=&space;\frac{75}{110}&space;\\I=682mA&space;\\Corriente~en~cad~foco&space;" title="~\\75w\\P= V\times I\\I= \frac{P}{V} \\I= \frac{75}{110} \\I=682mA \\Corriente~en~cad~foco " />
+
 45- ¿Qué está mal con el circuito de la figura 6-86?
 
 ![image](https://user-images.githubusercontent.com/93835587/143495994-327b37d3-e2d7-49bc-8ea0-29931b5bc80e.png)
