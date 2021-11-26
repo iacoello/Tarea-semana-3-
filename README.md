@@ -129,9 +129,15 @@ control. Trace el diagrama esquemático.
 
 (a) ¿Cuál es la corriente en el circuito?
 
+<img src="https://latex.codecogs.com/svg.image?I=V/R" title="I=V/R" />
 
+<img src="https://latex.codecogs.com/svg.image?I=48V/470\Omega&space;=0.03A" title="I=48V/470\Omega =0.03A" />
 
 (b) ¿Cuál es el voltaje a través de cada resistor?
+
+<img src="https://latex.codecogs.com/svg.image?V=I*R" title="V=I*R" />
+
+<img src="https://latex.codecogs.com/svg.image?V=0.03A*470\Omega&space;=14.1volt" title="V=0.03A*470\Omega =14.1volt" />
 
 (c) ¿Cuál es el valor nominal de potencia de los resistores?
 
