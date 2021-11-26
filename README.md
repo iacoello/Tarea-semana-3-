@@ -266,6 +266,7 @@ la figura 6-79
 
 <img src="https://latex.codecogs.com/svg.image?\\687500\mho&space;&space;\\IX=&space;IT\left&space;(&space;\frac{RT}{RX}&space;\right&space;)&space;\\I2=&space;10\times&space;10^{-6}\left&space;(&space;\frac{687500}{2.2\times&space;10^{6}}&space;\right&space;)\\I2=&space;3.12\times&space;10^{6}&space;A" title="\\687500\mho \\IX= IT\left ( \frac{RT}{RX} \right ) \\I2= 10\times 10^{-6}\left ( \frac{687500}{2.2\times 10^{6}} \right )\\I2= 3.12\times 10^{6} A" />
 
+<img src="https://latex.codecogs.com/svg.image?~\\Req=&space;\frac{1}{\frac{1}{1}&plus;\frac{1}{2.2}}\\Req=687500\mho\\IR1=&space;\frac{VR1}{R1}&space;&space;\\IR1=&space;\frac{6.875}{1000000}\\IR1=6.87mA\\\\VT=&space;IT\times&space;Req\\VT=&space;0.00001\times&space;687500\\VT=6.875V&space;\\&space;\\IR2=&space;\frac{VR2}{R2}&space;\\IR2=&space;\frac{6.875}{2200000}\\IR2=3.125mA" title="~\\Req= \frac{1}{\frac{1}{1}+\frac{1}{2.2}}\\Req=687500\mho\\IR1= \frac{VR1}{R1} \\IR1= \frac{6.875}{1000000}\\IR1=6.87mA\\\\VT= IT\times Req\\VT= 0.00001\times 687500\\VT=6.875V \\ \\IR2= \frac{VR2}{R2} \\IR2= \frac{6.875}{2200000}\\IR2=3.125mA" />
 
 
 35. Determine todos los valores de resistor en la figura 6-83. RT  773 Æ.
