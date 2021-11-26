@@ -129,9 +129,7 @@ control. Trace el diagrama esquemático.
 
 (a) ¿Cuál es la corriente en el circuito?
 
-<img src="https://latex.codecogs.com/svg.image?I=V/R" title="I=V/R" />
 
-<img src="https://latex.codecogs.com/svg.image?I=48V/1440\Omega&space;=0.033A" title="I=48V/1440\Omega =0.033A" />
 
 (b) ¿Cuál es el voltaje a través de cada resistor?
 
@@ -286,6 +284,19 @@ la figura 6-79
 ![image](https://user-images.githubusercontent.com/93835587/143495862-61903f43-03bc-44d6-9031-eb6def717e65.png)
 
 <img src="https://latex.codecogs.com/svg.image?~\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)P=I^{2}\times&space;Req\\Req=&space;\frac{1}{\frac{1}{1}&plus;\frac{1}{2.2}}&space;\\Req=&space;687500\mho&space;&space;\\P=0.00001^{2}\times&space;687500\\P=6.875\times&space;10^{-5}&space;W\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)P=I^{2}\times&space;Req\\Req=&space;\frac{1}{\frac{1}{1}&plus;\frac{1}{2.2}&plus;\frac{1}{3.3}&plus;\frac{1}{6.8}}&space;\\Req=&space;525.03\mho&space;&space;\\P=0.01^{2}\times&space;525.03\\P=0.0525&space;W&space;" title="~\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)P=I^{2}\times Req\\Req= \frac{1}{\frac{1}{1}+\frac{1}{2.2}} \\Req= 687500\mho \\P=0.00001^{2}\times 687500\\P=6.875\times 10^{-5} W\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)P=I^{2}\times Req\\Req= \frac{1}{\frac{1}{1}+\frac{1}{2.2}+\frac{1}{3.3}+\frac{1}{6.8}} \\Req= 525.03\mho \\P=0.01^{2}\times 525.03\\P=0.0525 W " />
+
+
+37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas
+de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50
+mV, 10 kÆ de escala completa entre la derivación para realizar la medición.
+(a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una
+aplicación de medición de 50 A?
+
+La resistencia es de un miliamperio
+
+(b) ¿Cuánta corriente circula por el medidor
+
+La corriente es de 5 microamperios
 
 41. Encuentre los valores de las cantidades no especificadas en la figura 6-84
 
