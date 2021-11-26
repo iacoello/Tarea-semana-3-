@@ -288,6 +288,13 @@ Los datos presentes en la tabla son correctos
 
 **//Capitulo 6//**
 
+1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería
+
+![image](https://user-images.githubusercontent.com/93835533/143578940-fca796e4-985e-4081-acb4-12631dd96553.png)
+
+![image](https://user-images.githubusercontent.com/93835533/143578956-a150ea64-3eae-4bd4-a981-aab35a728783.png)
+
+
 3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
 
 ![6-66](https://user-images.githubusercontent.com/93835587/143327985-0af95c7c-c83f-4b7a-8cf9-a5f4499ea881.jpg)
