@@ -283,6 +283,7 @@ Los datos presentes en la tabla son correctos
 59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo 
 
 
+Existe un cortocircuito en la punta 4 y el lado superior de la resistencia 11 (R11).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
