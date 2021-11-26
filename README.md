@@ -49,6 +49,9 @@ Aplicar la dinamica de circuitos para la resolucion de ejercicios relacionados a
 
 ![potencia](https://user-images.githubusercontent.com/93835587/143585041-a780e592-15b6-444b-b04c-92577a090d31.jpeg)
 
+![aplicaciones](https://user-images.githubusercontent.com/93835587/143586743-0d6dbaf3-fd72-4023-94f1-7ee9c165d7bc.jpeg)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
