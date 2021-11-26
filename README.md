@@ -129,6 +129,8 @@ control. Trace el diagrama esquemático.
 
 (a) ¿Cuál es la corriente en el circuito?
 
+
+
 (b) ¿Cuál es el voltaje a través de cada resistor?
 
 (c) ¿Cuál es el valor nominal de potencia de los resistores?
@@ -279,8 +281,6 @@ aplicación de medición de 50 A?
 ![image](https://user-images.githubusercontent.com/93835587/143495930-e9d055bc-ead4-4266-9653-2b936c281993.png)
 
 43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente tota
-
-<img src="https://latex.codecogs.com/svg.image?~\\75w\\P=&space;V\times&space;I\\I=&space;\frac{P}{V}&space;\\I=&space;\frac{75}{110}&space;\\I=682mA&space;\\Corriente~en~cad~foco&space;" title="~\\75w\\P= V\times I\\I= \frac{P}{V} \\I= \frac{75}{110} \\I=682mA \\Corriente~en~cad~foco " />
 
 45- ¿Qué está mal con el circuito de la figura 6-86?
 
