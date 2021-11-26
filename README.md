@@ -105,7 +105,25 @@ control. Trace el diagrama esquemático.
 
 17.En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
 
+![2](https://user-images.githubusercontent.com/93800511/143511085-3d89cddf-aa37-403b-aa68-7d770f0c0853.png)
+
+<img src="https://latex.codecogs.com/svg.image?Rt:&space;1.0K\Omega&space;&plus;5.6k\Omega&space;&plus;2.2K\Omega&space;&plus;4.7\Omega&space;&plus;10\Omega&space;&plus;12\Omega&space;&plus;1.0\Omega&space;&plus;1.0M\Omega&space;&plus;560K\Omega&space;&plus;5.6M\Omega&plus;680K\Omega&space;&plus;10M\Omega&space;=6.8KM\Omega&space;&space;" title="Rt: 1.0K\Omega +5.6k\Omega +2.2K\Omega +4.7\Omega +10\Omega +12\Omega +1.0\Omega +1.0M\Omega +560K\Omega +5.6M\Omega+680K\Omega +10M\Omega =6.8KM\Omega " />
+
 19.¿Cuál es la corriente presente en cada circuito de la figura 5-74?
+
+![2](https://user-images.githubusercontent.com/93800511/143511381-81873aed-22fc-4ee1-9f0f-a28b5b5ab138.png)
+
+(a)=<img src="https://latex.codecogs.com/svg.image?I=V/R" title="I=V/R" />
+
+<img src="https://latex.codecogs.com/svg.image?Rt=&space;2.2k\Omega&space;&plus;5.6k\Omega&space;&plus;1.0k\Omega&space;=8.8k\Omega&space;" title="Rt= 2.2k\Omega +5.6k\Omega +1.0k\Omega =8.8k\Omega " />
+
+<img src="https://latex.codecogs.com/svg.image?I=5.5V/8.8K\Omega&space;=0.00625A" title="I=5.5V/8.8K\Omega =0.00625A" />
+
+(b)=<img src="https://latex.codecogs.com/svg.image?I=V/R" title="I=V/R" />
+
+<img src="https://latex.codecogs.com/svg.image?Rt=&space;1.0M\Omega&space;&plus;2.2M\Omega&plus;&space;560k\Omega=23560000\Omega" title="Rt= 1.0M\Omega +2.2M\Omega+ 560k\Omega=23560000\Omega" />
+
+<img src="https://latex.codecogs.com/svg.image?I=&space;16V/23560000\Omega&space;=0.0000679A" title="I= 16V/23560000\Omega =0.0000679A" />
 
 21.Se conectan tres resistores de 470 Æ en serie con una fuente de 48 V.
 
@@ -266,9 +284,6 @@ aplicación de medición de 50 A?
 
 ![image](https://user-images.githubusercontent.com/93835587/143495994-327b37d3-e2d7-49bc-8ea0-29931b5bc80e.png)
 
-<img src="https://latex.codecogs.com/svg.image?~\\Req=&space;\frac{1}{\frac{1}{4.7}&plus;\frac{1}{10}&plus;\frac{1}{8.2}}&space;\\Req=2300.34\\I=&space;\frac{Vt}{Req}&space;\\I=&space;\frac{25}{2300.34}&space;\\I=10mA&space;" title="~\\Req= \frac{1}{\frac{1}{4.7}+\frac{1}{10}+\frac{1}{8.2}} \\Req=2300.34\\I= \frac{Vt}{Req} \\I= \frac{25}{2300.34} \\I=10mA " />
-Es el resultado que deberia tener 
-
 <img src="https://latex.codecogs.com/svg.image?El~resistor~de~8.2k\mho&space;~esta~abierto." title="El~resistor~de~8.2k\mho ~esta~abierto." />
 
 47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y
@@ -283,13 +298,8 @@ la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
 
 <img src="https://latex.codecogs.com/svg.image?\\Conectar~el~ohmmetro~entre~las~siguientes~clavijas:\\Clavijas&space;5-6\\Lectura&space;correcta:&space;\\R&space;=&space;1.0\left|&space;\right|71.8\left|&space;\right|7680\left|&space;\right|510k\mho&space;=201k\mho&space;" title="\\Conectar~el~ohmmetro~entre~las~siguientes~clavijas:\\Clavijas 5-6\\Lectura correcta: \\R = 1.0\left| \right|71.8\left| \right|7680\left| \right|510k\mho =201k\mho " />
 
-49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
-
-![image](https://user-images.githubusercontent.com/93835587/143511147-401967fb-0e97-494e-9c74-90d4ba801ae5.png)
-
-
-<img src="https://latex.codecogs.com/svg.image?\\Para~\left&space;(&space;a&space;\right&space;)~1~y~2\\No~existe~contacto\\&space;Para~\left&space;(&space;b&space;\right&space;)~2~y~3\\Req=&space;\frac{1}{\frac{1}{R5}&plus;\frac{1}{R6}&plus;\frac{1}{R7}&plus;\frac{1}{R8}&plus;\frac{1}{R9}&plus;\frac{1}{R10}}&space;\\Para~\left&space;(&space;C&space;\right&space;)~2~y~4&space;\\No~existe~contacto&space;\\Para~\left&space;(&space;d&space;\right&space;)~1~y~4\\Req=&space;\frac{1}{\frac{1}{R1}&plus;\frac{1}{R2}&plus;\frac{1}{R3}&plus;\frac{1}{R4}&plus;\frac{1}{R11}&plus;\frac{1}{R12}}&space;" title="\\Para~\left ( a \right )~1~y~2\\No~existe~contacto\\ Para~\left ( b \right )~2~y~3\\Req= \frac{1}{\frac{1}{R5}+\frac{1}{R6}+\frac{1}{R7}+\frac{1}{R8}+\frac{1}{R9}+\frac{1}{R10}} \\Para~\left ( C \right )~2~y~4 \\No~existe~contacto \\Para~\left ( d \right )~1~y~4\\Req= \frac{1}{\frac{1}{R1}+\frac{1}{R2}+\frac{1}{R3}+\frac{1}{R4}+\frac{1}{R11}+\frac{1}{R12}} " />
 
 51. Abra el archivo P06-51. Determine por medición si hay un resistor abierto y, de ser así, mencione cuál. 
 
