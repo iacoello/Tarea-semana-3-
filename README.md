@@ -283,6 +283,8 @@ aplicación de medición de 50 A?
 
 ![image](https://user-images.githubusercontent.com/93835587/143495930-e9d055bc-ead4-4266-9653-2b936c281993.png)
 
+<img src="https://latex.codecogs.com/svg.image?~\\P2=&space;0.75W\\VR2\times&space;IR2=&space;0.75&space;\\10\times&space;IR2=&space;0.75&space;\\I2=&space;75mA&space;\\V\times&space;I=&space;2W&space;\\V\times&space;0.2=&space;2&space;\\V=&space;10V&space;\\IT=&space;IR2&plus;IR1&space;\\200=&space;75&plus;IR1&space;\\IR1=&space;125mA&space;\\R2=&space;\frac{VT}{IR2}&space;\\R2=&space;\frac{10}{0.075}&space;&space;\\R2=&space;133.33\mho&space;&space;\\R1=&space;\frac{VT}{IR1}\\R1=&space;\frac{10}{0.125}\\R1=&space;80\mho&space;&space;" title="~\\P2= 0.75W\\VR2\times IR2= 0.75 \\10\times IR2= 0.75 \\I2= 75mA \\V\times I= 2W \\V\times 0.2= 2 \\V= 10V \\IT= IR2+IR1 \\200= 75+IR1 \\IR1= 125mA \\R2= \frac{VT}{IR2} \\R2= \frac{10}{0.075} \\R2= 133.33\mho \\R1= \frac{VT}{IR1}\\R1= \frac{10}{0.125}\\R1= 80\mho " />
+
 43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total
 
 <img src="https://latex.codecogs.com/svg.image?~\\75w\\P=&space;V\times&space;I\\I=&space;\frac{P}{V}&space;\\I=&space;\frac{75}{110}&space;\\I=682mA&space;\\Corriente~en~cad~foco&space;" title="~\\75w\\P= V\times I\\I= \frac{P}{V} \\I= \frac{75}{110} \\I=682mA \\Corriente~en~cad~foco " />
