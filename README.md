@@ -244,6 +244,8 @@ usible de 0.5 A se funda?
  
  ![27](https://user-images.githubusercontent.com/93835587/143372540-e953ae67-821d-46f8-bbb6-f4c0db174766.jpg)
  
+ <img src="https://latex.codecogs.com/svg.image?~\\Req=\frac{V}{IT}\\Req=\frac{15V}{0.5A}\\R2=&space;\frac{1}{\frac{1}{30\mho&space;}-\frac{1}{68\mho&space;}}\\R2=53.68\mho&space;&space;" title="~\\Req=\frac{V}{IT}\\Req=\frac{15V}{0.5A}\\R2= \frac{1}{\frac{1}{30\mho }-\frac{1}{68\mho }}\\R2=53.68\mho " />
+ 
 29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
  
   2![29](https://user-images.githubusercontent.com/93835587/143374065-6c0c961b-50bf-47f4-832e-88abcdd07e74.jpg)
