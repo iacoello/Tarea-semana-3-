@@ -157,17 +157,40 @@ control. Trace el diagrama esquemático.
 
 25.En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
 
+![2](https://user-images.githubusercontent.com/93800511/143521774-114ad88e-0b95-4534-8ac6-afd53721eb32.png)
+
 (a) ¿Cuál es la resistencia de R4?
+
+<img src="https://latex.codecogs.com/svg.image?3.&space;R=12/7.84=1.53Rt\Omega&space;" title="3. R=12/7.84=1.53Rt\Omega " />
 
 (b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
 
+B=8.54
+
+C=6.23
+
+D=4.56
+
+
 (c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?
+
+Un fusible de la determinada resitencia permitiria el paso de energia por medio de este por un detereminado tiempo hasta funfirse en todas las posisiciones con exepcion de la posicion C
 
 27.Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad
 en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje
 total?
 
+El voltaje total de este circuito en serie se sumaria dando de resultado unos solidos 14 Volts siempre y cuendo se conecte en serie.
+
 29.Determine el voltaje de fuente total en cada circuito de la figura 5-79.
+
+![2](https://user-images.githubusercontent.com/93800511/143522779-d913efd2-f982-411d-a3ad-e0d07b7154cf.png)
+
+(a)= 10V+5V+8V=23V
+
+(b)= 10V+50V+25V= 85V
+ 
+(c)= 8V+8V=16V
 
 31.Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro
 de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
