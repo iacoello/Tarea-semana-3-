@@ -239,6 +239,16 @@ resistor de 27 Æ que forma parte de la resistencia total en serie?
 
 ![3](https://user-images.githubusercontent.com/93800511/143580538-81b89443-f317-4aae-9798-35ab5585f4e8.png)
 
+<img src="https://latex.codecogs.com/svg.image?RT=5.6k\Omega&space;&plus;10k\Omega&plus;3.3k\Omega=18.9k\Omega&space;&space;&space;" title="RT=5.6k\Omega +10k\Omega+3.3k\Omega=18.9k\Omega " />
+
+<img src="https://latex.codecogs.com/svg.image?IT=12/18900=0.00634A" title="IT=12/18900=0.00634A" />
+
+<img src="https://latex.codecogs.com/svg.image?(a)=5.6k\Omega&space;/0.000634A=8.83V" title="(a)=5.6k\Omega /0.000634A=8.83V" />
+
+<img src="https://latex.codecogs.com/svg.image?(b)=15.6k\Omega&space;/0.000634A=2.46V" title="(b)=15.6k\Omega /0.000634A=2.46V" />
+
+<img src="https://latex.codecogs.com/svg.image?(c)=18.9k\Omega&space;/0.000634A=2.98V" title="(c)=18.9k\Omega /0.000634A=2.98V" />
+
 41.¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
 
 ![image](https://user-images.githubusercontent.com/93835533/143574769-75d148d1-97a5-4247-86c9-4e1d940b1423.png)
