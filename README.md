@@ -51,6 +51,8 @@ Aplicar la dinamica de circuitos para la resolucion de ejercicios relacionados a
 
 ![aplicaciones](https://user-images.githubusercontent.com/93835587/143586743-0d6dbaf3-fd72-4023-94f1-7ee9c165d7bc.jpeg)
 
+![localizacion](https://user-images.githubusercontent.com/93835587/143587805-ebc20b9c-bf57-4d62-8399-411aa967706f.jpeg)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
