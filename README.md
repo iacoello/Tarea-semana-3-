@@ -43,6 +43,7 @@ Aplicar la dinamica de circuitos para la resolucion de ejercicios relacionados a
 
 ![RESISTENCIA TOTAL](https://user-images.githubusercontent.com/93835587/143505016-83da85e1-9fb3-4d1d-8af7-901c1bcd8557.jpeg)
 
+![divisor](https://user-images.githubusercontent.com/93835587/143583911-3f890e73-55a5-4613-abbd-2b6df8917812.jpeg)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
