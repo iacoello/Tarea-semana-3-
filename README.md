@@ -225,6 +225,14 @@ resistor de 27 Æ que forma parte de la resistencia total en serie?
 
 39.Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
 
+41.¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
+
+![image](https://user-images.githubusercontent.com/93835533/143574769-75d148d1-97a5-4247-86c9-4e1d940b1423.png)
+
+![image](https://user-images.githubusercontent.com/93835533/143574803-fc0b32b2-6c1b-443f-a776-bcc00e033ec5.png)
+
+43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
