@@ -44,10 +44,7 @@ Aplicar la dinamica de circuitos para la resolucion de ejercicios relacionados a
 ![RESISTENCIA TOTAL](https://user-images.githubusercontent.com/93835587/143505016-83da85e1-9fb3-4d1d-8af7-901c1bcd8557.jpeg)
 
 
-![FUENTE](https://user-images.githubusercontent.com/93835587/143582314-335e4f4d-ff70-4d81-bec1-45137f9f585b.jpeg)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
 
@@ -234,11 +231,13 @@ corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D
 37.La resistencia total de un circuito es de 560 Æ. ¿Qué porcentaje del voltaje total aparece a través de un
 resistor de 27 Æ que forma parte de la resistencia total en serie?
 
+<img src="https://latex.codecogs.com/svg.image?27\Omega&space;*100%=2700" title="27\Omega *100%=2700" />
+
+<img src="https://latex.codecogs.com/svg.image?2700/560=4.82%" title="2700/560=4.82%" />
+
 39.Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
 
 ![3](https://user-images.githubusercontent.com/93800511/143580538-81b89443-f317-4aae-9798-35ab5585f4e8.png)
-
-
 
 41.¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
 
