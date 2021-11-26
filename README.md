@@ -272,6 +272,9 @@ la figura 6-79
 
 ![image](https://user-images.githubusercontent.com/93835587/143495776-76a98f82-c4ac-4a55-a81f-d4600f4b7b8d.png)
 
+![image](https://user-images.githubusercontent.com/93835587/143517619-84af12f8-3785-4a28-8197-45dd3b88e268.png)
+
+
 
 39. Determine la potencia total en cada uno de los circuitos de la figura 6-81
 
