@@ -214,6 +214,10 @@ interruptor?
 
 19- Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
 
+Tres grupos, uno de cinco resistores de 470 Æ, otro de diez resistores de 100 Æ, y uno más de dos resistores de 100 Æ están conectados en paralelo.
+
+<img src="https://latex.codecogs.com/svg.image?~\\RT=&space;\frac{1}{\frac{R}{Nro~de~R}&plus;\frac{R}{Nro~de~R}&plus;\frac{R}{Nro~de~R}}\\RT=&space;\frac{1}{\frac{470}{5}&plus;\frac{100}{10}&plus;\frac{100}{2}}&space;\\RT=7.65\mho&space;&space;" title="~\\RT= \frac{1}{\frac{R}{Nro~de~R}+\frac{R}{Nro~de~R}+\frac{R}{Nro~de~R}}\\RT= \frac{1}{\frac{470}{5}+\frac{100}{10}+\frac{100}{2}} \\RT=7.65\mho " />
+
 21- ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
 
 ![21](https://user-images.githubusercontent.com/93835587/143370445-e15f1916-228f-4ecb-a0de-41451afe2541.jpg)
@@ -303,9 +307,6 @@ la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
 
-51. Abra el archivo P06-51. Determine por medición si hay un resistor abierto y, de ser así, mencione cuál. 
-
-53. Abra el archivo P06-53 y determine el voltaje de fuente no especificado.
 
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
