@@ -233,6 +233,56 @@ resistor de 27 Æ que forma parte de la resistencia total en serie?
 
 43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
 
+![image](https://user-images.githubusercontent.com/93835533/143575939-3b07cb4d-6fa1-4d78-8f50-04a8900423a8.png)
+
+![image](https://user-images.githubusercontent.com/93835533/143575958-ad2b30c9-46f4-4b04-b4e8-24abee6087e8.png)
+
+47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
+
+![image](https://user-images.githubusercontent.com/93835533/143576196-0ff33f8a-05dd-429d-ba33-27b2d756242a.png)
+
+49. Encuentre RT en la figura 5-89.
+
+
+![image](https://user-images.githubusercontent.com/93835533/143576548-debb209b-76a8-4232-9170-a2407b47f5fd.png)
+
+
+![image](https://user-images.githubusercontent.com/93835533/143576387-766eb778-8f86-4e35-a49a-ca223f0d6d6b.png)
+
+51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
+
+![image](https://user-images.githubusercontent.com/93835533/143576634-d20e24d7-6b24-4684-be84-9f3325037be3.png)
+
+![image](https://user-images.githubusercontent.com/93835533/143576727-e8cb71d4-eb31-4d6a-9464-ea94e59f49bb.png)
+
+53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+
+![image](https://user-images.githubusercontent.com/93835533/143576815-e69e0bd2-a8dc-4680-82b6-74c543705f21.png)
+
+![image](https://user-images.githubusercontent.com/93835533/143577117-1214ec67-7de7-49dc-b417-15f89b60c68e.png)
+
+![image](https://user-images.githubusercontent.com/93835533/143577150-a24d65b3-f999-4558-b69c-0e08bf34ad34.png)
+
+![image](https://user-images.githubusercontent.com/93835533/143577173-0118c9f9-a86c-4f75-942f-35f2a497f57a.png)
+
+55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
+
+![image](https://user-images.githubusercontent.com/93835533/143577395-11399aa7-2d13-444b-89fb-b82aafb852f3.png)
+
+(a)	El resistor 4 se encuentra abierto debido a que cuando un circuito se abre todo el voltaje de la fuente aparece atreves de la abertura(LVK) y produce que el voltaje en cada extremo de los resistores sea 0V. 
+
+(b)	Se está produciendo un corto circuito en la zona de A a B debido a la sujeción de los dos cables, por lo que causa que no exista voltaje en la zona y que la intensidad se incrementa.   
+
+57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
+
+![image](https://user-images.githubusercontent.com/93835533/143577623-b094a040-403d-438f-ac4d-b9988555f115.png)
+![image](https://user-images.githubusercontent.com/93835533/143577637-1295be48-fe8d-4ff1-9fa5-fce891350dab.png)
+
+Los datos presentes en la tabla son correctos 
+
+59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo 
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
