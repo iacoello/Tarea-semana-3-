@@ -13,7 +13,7 @@
 * FUNDAMENTOS DE CIRCUITOS ELECTRICOS **NRC** : 10149
 
 **FECHA DE ENTREGA**
-* 25/11/2021
+* 26/11/2021
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1. OBJETIVOS**
@@ -313,6 +313,14 @@ interruptor?
 ![c](https://user-images.githubusercontent.com/93835587/143334332-77723d62-7166-49ac-9efa-276a8a6903a1.jpg)
 
 <img src="https://latex.codecogs.com/svg.image?\\Color~amarillo\\Posicion~c\\V1&space;=&space;15~V,~V2&space;=&space;15&space;V,~V3&space;=&space;0&space;V,~V4&space;=&space;0&space;V&space;" title="\\Color~amarillo\\Posicion~c\\V1 = 15~V,~V2 = 15 V,~V3 = 0 V,~V4 = 0 V " />
+
+9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+![image](https://user-images.githubusercontent.com/93835533/143578421-a9ead480-b3c3-4832-bd89-e829c55e8130.png)
+
+11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
+
+![image](https://user-images.githubusercontent.com/93835533/143578483-2d17693a-b5b7-42f0-9f81-79f7cd5b253e.png)
 
 15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
 
