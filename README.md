@@ -70,17 +70,34 @@ cara posterior.
 7.La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro
 localizado en el circuito?
 
+![1](https://user-images.githubusercontent.com/93800511/143508482-490379e8-7430-4aa7-bf4c-bdea3d47d892.png)
 
+El miliamperímetro lee 50 mA entre C y D, y 50 mA entre E y F.
 
 9.Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
 de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de
 control. Trace el diagrama esquemático.
 
+![1](https://user-images.githubusercontent.com/93800511/143509093-5fb97f0d-b273-43a6-bfd9-662960dc70e9.png)
+
 11.Encuentre la resistencia total de los siguientes grupos de resistores en serie:
+
+(a)= 560Ohm y 1000Ohhm:  Sumatoria= 1560Ohm 
+
+(b)= 47Ohm y 56Ohm: Sumatoria= 1030Ohm 
+
+(c)= 1.5kOhm y 2.2kOhm y 10kOhm: Sumatoria= 47KOhm 
+
+(d)= 1.0MOhm y 470Ohm y 1.0kOhm y 2.2mOhm: Sumatoria= 1.23MOhm
+
 
 13.¿Cuál es la resistencia total de doce resistores de 5.6 kÆ dispuestos en serie?
 
+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k+5.6k= 67kOhm
+
 15.Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?
+
+
 
 17.En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
 
@@ -172,10 +189,6 @@ interruptor?
 <img src="https://latex.codecogs.com/svg.image?\\RT=&space;\frac{R}{Nro~de~resistencias}\\RT=&space;\frac{6,8k\mho&space;}{12}\\RT=0,567k\mho&space;\\RT=567\mho&space;&space;&space;" title="\\RT= \frac{R}{Nro~de~resistencias}\\RT= \frac{6,8k\mho }{12}\\RT=0,567k\mho \\RT=567\mho " />
 
 19- Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
-
-Tres grupos, uno de cinco resistores de 470 Æ, otro de diez resistores de 100 Æ, y uno más de dos resistores de 100 Æ están conectados en paralelo.
-
-<img src="https://latex.codecogs.com/svg.image?\\RT=&space;\frac{1}{\frac{R1}{Nro&space;de&space;R}&plus;\frac{R2}{Nro&space;de&space;R}&plus;\frac{R3}{Nro&space;de&space;R}}\\RT=&space;\frac{1}{\frac{470}{5}&plus;\frac{100}{10}&plus;\frac{100}{2}}\\RT=7.65\mho&space;&space;" title="\\RT= \frac{1}{\frac{R1}{Nro de R}+\frac{R2}{Nro de R}+\frac{R3}{Nro de R}}\\RT= \frac{1}{\frac{470}{5}+\frac{100}{10}+\frac{100}{2}}\\RT=7.65\mho " />
 
 21- ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
 
