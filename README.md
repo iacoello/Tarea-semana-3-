@@ -289,6 +289,9 @@ aplicación de medición de 50 A?
 
 ![image](https://user-images.githubusercontent.com/93835587/143495994-327b37d3-e2d7-49bc-8ea0-29931b5bc80e.png)
 
+<img src="https://latex.codecogs.com/svg.image?~\\Req=&space;\frac{1}{\frac{1}{4.7}&plus;\frac{1}{10}&plus;\frac{1}{1.82}}\\Req=2300.34\mho&space;&space;\\I=&space;\frac{VT}{Req}&space;\\I=&space;\frac{25}{2300.34}&space;&space;\\I=&space;10&space;mA&space;" title="~\\Req= \frac{1}{\frac{1}{4.7}+\frac{1}{10}+\frac{1}{1.82}}\\Req=2300.34\mho \\I= \frac{VT}{Req} \\I= \frac{25}{2300.34} \\I= 10 mA " />
+RESPUESTA
+
 <img src="https://latex.codecogs.com/svg.image?El~resistor~de~8.2k\mho&space;~esta~abierto." title="El~resistor~de~8.2k\mho ~esta~abierto." />
 
 47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y
