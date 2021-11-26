@@ -97,7 +97,11 @@ control. Trace el diagrama esquemático.
 
 15.Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?
 
+![2](https://user-images.githubusercontent.com/93800511/143510476-1536b0a2-cc0f-4a00-9515-ea8e33777d0d.png)
 
+<img src="https://latex.codecogs.com/svg.image?Rt:5.6K\Omega&space;&plus;1.0K\Omega&space;&plus;2.2k\Omega&space;&plus;4.7k\Omega&space;&plus;R5=17.4\Omega&space;" title="Rt:5.6K\Omega +1.0K\Omega +2.2k\Omega +4.7k\Omega +R5=17.4\Omega " />
+
+<img src="https://latex.codecogs.com/svg.image?R5=6.1K\Omega&space;" title="R5=6.1K\Omega " />
 
 17.En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
 
