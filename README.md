@@ -225,8 +225,7 @@ Tres grupos, uno de cinco resistores de 470 Æ, otro de diez resistores de 100 �
 ![plp](https://user-images.githubusercontent.com/93835587/143373918-482be196-4479-4b44-b119-69cbb213cafd.jpg)
 
 
-<img src="https://latex.codecogs.com/svg.image?\\Tenemos~losvsiguientes~resultados\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)510k\mho&space;&space;\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)245k\mho&space;\\\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)510k\mho&space;&space;\\\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)193k\mho&space;&space;&space;" title="\\Tenemos~losvsiguientes~resultados\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)510k\mho \\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)245k\mho \\\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)510k\mho \\\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)193k\mho " />
-
+<img src="https://latex.codecogs.com/svg.image?~\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)RT=&space;510k\mho&space;\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)RT=\frac{1}{\frac{1}{510}&plus;\frac{1}{470}}\\RT=244.59k\mho\\\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)RT=&space;510k\mho&space;\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)RT=\frac{1}{\frac{1}{510}&plus;\frac{1}{470}&plus;\frac{1}{910}}\\RT=192.77k\mho&space;" title="~\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)RT= 510k\mho \\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)RT=\frac{1}{\frac{1}{510}+\frac{1}{470}}\\RT=244.59k\mho\\\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)RT= 510k\mho \\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)RT=\frac{1}{\frac{1}{510}+\frac{1}{470}+\frac{1}{910}}\\RT=192.77k\mho " />
 
 
 23. Tres resistores de 33 Æ están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
