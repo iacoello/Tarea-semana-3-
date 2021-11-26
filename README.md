@@ -218,12 +218,24 @@ corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D
 
 ![2](https://user-images.githubusercontent.com/93800511/143523812-4827d311-d4d7-43d5-802d-62a51a52218c.png)
 
+<img src="https://latex.codecogs.com/svg.image?I=V/R" title="I=V/R" />
 
+<img src="https://latex.codecogs.com/svg.image?(a)=18/2038=0.000883A" title="(a)=18/2038=0.000883A" />
+
+<img src="https://latex.codecogs.com/svg.image?(b)=18/=0=00497A" title="(b)=18/=0=00497A" />
+
+<img src="https://latex.codecogs.com/svg.image?(c)=18/19000=0.000947A" title="(c)=18/19000=0.000947A" />
+
+<img src="https://latex.codecogs.com/svg.image?(d)=18/18000=0.00877A" title="(d)=18/18000=0.00877A" />
 
 37.La resistencia total de un circuito es de 560 Æ. ¿Qué porcentaje del voltaje total aparece a través de un
 resistor de 27 Æ que forma parte de la resistencia total en serie?
 
 39.Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
+
+![3](https://user-images.githubusercontent.com/93800511/143580538-81b89443-f317-4aae-9798-35ab5585f4e8.png)
+
+
 
 41.¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
 
