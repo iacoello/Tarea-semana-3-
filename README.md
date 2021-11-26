@@ -195,12 +195,30 @@ El voltaje total de este circuito en serie se sumaria dando de resultado unos so
 31.Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro
 de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
 
+20V-1.5V-5.5V-3V-6V=4V
+
+Quinto resistor= 4V
+
 33.En el circuito de la figura 5-81, determine la resistencia de R4.
 
 ![1](https://user-images.githubusercontent.com/93800511/143358513-f82f330f-22bc-492d-984e-04165dc8023d.png)
 
+<img src="https://latex.codecogs.com/svg.image?Vt:11.2V&plus;5.4V&plus;0.94V&plus;4.4V=21.94V" title="Vt:11.2V+5.4V+0.94V+4.4V=21.94V" />
+
+<img src="https://latex.codecogs.com/svg.image?I=V/R" title="I=V/R" />
+
+<img src="https://latex.codecogs.com/svg.image?I=21.94/4.7=4.66A&space;" title="I=21.94/4.7=4.66A " />
+
+<img src="https://latex.codecogs.com/svg.image?R=V/I" title="R=V/I" />
+
+<img src="https://latex.codecogs.com/svg.image?R=21.94/4.7=4.66" title="R=21.94/4.7=4.66" />
+
 35.Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La
 corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
+
+![2](https://user-images.githubusercontent.com/93800511/143523812-4827d311-d4d7-43d5-802d-62a51a52218c.png)
+
+
 
 37.La resistencia total de un circuito es de 560 Æ. ¿Qué porcentaje del voltaje total aparece a través de un
 resistor de 27 Æ que forma parte de la resistencia total en serie?
