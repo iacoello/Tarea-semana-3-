@@ -173,6 +173,10 @@ interruptor?
 
 19- Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
 
+Tres grupos, uno de cinco resistores de 470 Æ, otro de diez resistores de 100 Æ, y uno más de dos resistores de 100 Æ están conectados en paralelo.
+
+<img src="https://latex.codecogs.com/svg.image?\\RT=&space;\frac{1}{\frac{R1}{Nro&space;de&space;R}&plus;\frac{R2}{Nro&space;de&space;R}&plus;\frac{R3}{Nro&space;de&space;R}}\\RT=&space;\frac{1}{\frac{470}{5}&plus;\frac{100}{10}&plus;\frac{100}{2}}\\RT=7.65\mho&space;&space;" title="\\RT= \frac{1}{\frac{R1}{Nro de R}+\frac{R2}{Nro de R}+\frac{R3}{Nro de R}}\\RT= \frac{1}{\frac{470}{5}+\frac{100}{10}+\frac{100}{2}}\\RT=7.65\mho " />
+
 21- ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
 
 ![21](https://user-images.githubusercontent.com/93835587/143370445-e15f1916-228f-4ecb-a0de-41451afe2541.jpg)
