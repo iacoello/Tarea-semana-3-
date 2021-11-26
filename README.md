@@ -280,8 +280,13 @@ la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
 
 <img src="https://latex.codecogs.com/svg.image?\\Conectar~el~ohmmetro~entre~las~siguientes~clavijas:\\Clavijas&space;5-6\\Lectura&space;correcta:&space;\\R&space;=&space;1.0\left|&space;\right|71.8\left|&space;\right|7680\left|&space;\right|510k\mho&space;=201k\mho&space;" title="\\Conectar~el~ohmmetro~entre~las~siguientes~clavijas:\\Clavijas 5-6\\Lectura correcta: \\R = 1.0\left| \right|71.8\left| \right|7680\left| \right|510k\mho =201k\mho " />
 
-49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
+
+![image](https://user-images.githubusercontent.com/93835587/143511147-401967fb-0e97-494e-9c74-90d4ba801ae5.png)
+
+
+<img src="https://latex.codecogs.com/svg.image?\\Para~\left&space;(&space;a&space;\right&space;)~1~y~2\\No~existe~contacto\\&space;Para~\left&space;(&space;b&space;\right&space;)~2~y~3\\Req=&space;\frac{1}{\frac{1}{R5}&plus;\frac{1}{R6}&plus;\frac{1}{R7}&plus;\frac{1}{R8}&plus;\frac{1}{R9}&plus;\frac{1}{R10}}&space;\\Para~\left&space;(&space;C&space;\right&space;)~2~y~4&space;\\No~existe~contacto&space;\\Para~\left&space;(&space;d&space;\right&space;)~1~y~4\\Req=&space;\frac{1}{\frac{1}{R1}&plus;\frac{1}{R2}&plus;\frac{1}{R3}&plus;\frac{1}{R4}&plus;\frac{1}{R11}&plus;\frac{1}{R12}}&space;" title="\\Para~\left ( a \right )~1~y~2\\No~existe~contacto\\ Para~\left ( b \right )~2~y~3\\Req= \frac{1}{\frac{1}{R5}+\frac{1}{R6}+\frac{1}{R7}+\frac{1}{R8}+\frac{1}{R9}+\frac{1}{R10}} \\Para~\left ( C \right )~2~y~4 \\No~existe~contacto \\Para~\left ( d \right )~1~y~4\\Req= \frac{1}{\frac{1}{R1}+\frac{1}{R2}+\frac{1}{R3}+\frac{1}{R4}+\frac{1}{R11}+\frac{1}{R12}} " />
 
 51. Abra el archivo P06-51. Determine por medición si hay un resistor abierto y, de ser así, mencione cuál. 
 
