@@ -141,7 +141,19 @@ control. Trace el diagrama esquemático.
 
 (c) ¿Cuál es el valor nominal de potencia de los resistores?
 
+<img src="https://latex.codecogs.com/svg.image?R=1/4(5V/4.63mA)=270\Omega&space;" title="R=1/4(5V/4.63mA)=270\Omega " />
+
 23.¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
+
+![2](https://user-images.githubusercontent.com/93800511/143521109-53fe19a2-8462-44af-848e-c510a3b104f5.png)
+
+<img src="https://latex.codecogs.com/svg.image?R=V/I" title="R=V/I" />
+
+<img src="https://latex.codecogs.com/svg.image?1.&space;R=21.7/65.8=0.329\Omega&space;" title="1. R=21.7/65.8=0.329\Omega " />
+
+<img src="https://latex.codecogs.com/svg.image?2.&space;R=14.5/65.8=0.22\Omega&space;" title="2. R=14.5/65.8=0.22\Omega " />
+
+<img src="https://latex.codecogs.com/svg.image?3.&space;R=30.9/65.8=0.46\Omega&space;" title="3. R=30.9/65.8=0.46\Omega " />
 
 25.En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
 
