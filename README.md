@@ -247,6 +247,8 @@ usible de 0.5 A se funda?
 29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
  
   2![29](https://user-images.githubusercontent.com/93835587/143374065-6c0c961b-50bf-47f4-832e-88abcdd07e74.jpg)
+  
+  <img src="https://latex.codecogs.com/svg.image?~\\IT=&space;50&plus;250\\IT=300mA&space;\\\\250=&space;I2&plus;83&space;\\&space;I2=&space;167mA\\\\IR3=&space;\frac{VR3}{R3}&space;\\IR3=&space;\frac{1000}{1200}&space;\\IR3=&space;83mA" title="~\\IT= 50+250\\IT=300mA \\\\250= I2+83 \\ I2= 167mA\\\\IR3= \frac{VR3}{R3} \\IR3= \frac{1000}{1200} \\IR3= 83mA" />
  
  31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en
 la figura 6-79
