@@ -264,7 +264,7 @@ la figura 6-79
 
 <img src="https://latex.codecogs.com/svg.image?\\687500\mho&space;&space;\\IX=&space;IT\left&space;(&space;\frac{RT}{RX}&space;\right&space;)&space;\\I2=&space;10\times&space;10^{-6}\left&space;(&space;\frac{687500}{2.2\times&space;10^{6}}&space;\right&space;)\\I2=&space;3.12\times&space;10^{6}&space;A" title="\\687500\mho \\IX= IT\left ( \frac{RT}{RX} \right ) \\I2= 10\times 10^{-6}\left ( \frac{687500}{2.2\times 10^{6}} \right )\\I2= 3.12\times 10^{6} A" />
 
-<img src="https://latex.codecogs.com/svg.image?~\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)P=I^{2}\times&space;Req\\Req=&space;\frac{1}{\frac{1}{1}&plus;\frac{1}{2.2}}&space;\\Req=&space;687500\mho&space;&space;\\P=0.00001^{2}\times&space;687500\\P=6.875\times&space;10^{-5}&space;W\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)P=I^{2}\times&space;Req\\Req=&space;\frac{1}{\frac{1}{1}&plus;\frac{1}{2.2}&plus;\frac{1}{3.3}&plus;\frac{1}{6.8}}&space;\\Req=&space;525.03\mho&space;&space;\\P=0.01^{2}\times&space;525.03\\P=0.0525&space;W&space;" title="~\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)P=I^{2}\times Req\\Req= \frac{1}{\frac{1}{1}+\frac{1}{2.2}} \\Req= 687500\mho \\P=0.00001^{2}\times 687500\\P=6.875\times 10^{-5} W\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)P=I^{2}\times Req\\Req= \frac{1}{\frac{1}{1}+\frac{1}{2.2}+\frac{1}{3.3}+\frac{1}{6.8}} \\Req= 525.03\mho \\P=0.01^{2}\times 525.03\\P=0.0525 W " />
+
 
 35. Determine todos los valores de resistor en la figura 6-83. RT  773 Æ.
 
@@ -280,6 +280,8 @@ aplicación de medición de 50 A?
 39. Determine la potencia total en cada uno de los circuitos de la figura 6-81
 
 ![image](https://user-images.githubusercontent.com/93835587/143495862-61903f43-03bc-44d6-9031-eb6def717e65.png)
+
+<img src="https://latex.codecogs.com/svg.image?~\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)P=I^{2}\times&space;Req\\Req=&space;\frac{1}{\frac{1}{1}&plus;\frac{1}{2.2}}&space;\\Req=&space;687500\mho&space;&space;\\P=0.00001^{2}\times&space;687500\\P=6.875\times&space;10^{-5}&space;W\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)P=I^{2}\times&space;Req\\Req=&space;\frac{1}{\frac{1}{1}&plus;\frac{1}{2.2}&plus;\frac{1}{3.3}&plus;\frac{1}{6.8}}&space;\\Req=&space;525.03\mho&space;&space;\\P=0.01^{2}\times&space;525.03\\P=0.0525&space;W&space;" title="~\\\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)P=I^{2}\times Req\\Req= \frac{1}{\frac{1}{1}+\frac{1}{2.2}} \\Req= 687500\mho \\P=0.00001^{2}\times 687500\\P=6.875\times 10^{-5} W\\\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)P=I^{2}\times Req\\Req= \frac{1}{\frac{1}{1}+\frac{1}{2.2}+\frac{1}{3.3}+\frac{1}{6.8}} \\Req= 525.03\mho \\P=0.01^{2}\times 525.03\\P=0.0525 W " />
 
 41. Encuentre los valores de las cantidades no especificadas en la figura 6-84
 
